@@ -1,0 +1,60 @@
+/*loginhome*/
+body {
+   /* background-image: url("images2/loginhome.jpg");*/
+   background-color:green; 
+    background-size:100% 150%;
+   }
+   
+   #label1
+   {
+     color:white;
+   }
+ 
+
+#input1{
+  background-color:white; 
+  height: 40px; 
+  width: 90px; 
+  margin-left:0%;
+   margin-right:0% ;
+   display:block;
+   margin-top:0%;
+   margin-bottom:0%;
+
+}
+/*SELLERHOME*/
+#SHbody{
+    background-image: url("images2/image2.jpg");
+    background-size:100% 100%;
+}
+#SHfont{
+    color:#660066;
+    size:+5;
+}
+
+
+/*ALL FUNCTIONS PAGES*/
+#AIbody{
+   background-color: orange;
+}
+#AIinput{
+    background-color:white; 
+    height: 30px; 
+    width: 70px; 
+    margin-left:0%; 
+    margin-right:0% ;
+    display:block;
+    margin-top:0%;
+    margin-bottom:0%;
+}
+
+/*REGISTERHOME*/
+#REGHOMEbody{
+    background-image: url("images2/reg.jpg");
+    background-size:100% 100%;
+}
+
+#inputbox{
+    height:80px;
+    width:200px;
+}
